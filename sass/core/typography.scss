@@ -1,0 +1,21 @@
+$font-family-roboto: "Roboto", sans-serif;
+$font-family-poppins: "Poppins", sans-serif;
+
+$font-family: (
+  primary: $font-family-roboto,
+  secondary: $font-family-poppins,
+);
+
+$font-sizes: (
+  global: 1.4rem,
+  logo-font: 2.4rem,
+  inputs: 1.2rem,
+  font-icons: 1.6rem,
+  search-form: 1.4rem,
+  job-company: 1.2rem,
+  job-title: 1.8rem,
+  tag: 1.2rem,
+  job-time: 1.2rem,
+  paging: 1.2rem,
+  footer: 1.4rem,
+);
